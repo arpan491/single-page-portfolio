@@ -2,7 +2,7 @@ import React from "react";
 import {
   FaGithub as Github,
   FaInstagram as Insta,
-  FaDownload,
+  FaFileAlt,
   FaLinkedin
 } from "react-icons/fa";
 
@@ -12,7 +12,7 @@ export default function Social() {
       <div className="h3 mt-5">
         <a
           className="mr-5 icon"
-          href="https://www.linkedin.com/in/karthik-menon/"
+          href="https://www.linkedin.com/in/arpanguptaa/"
           target="_blank"
           rel="noreferrer"
         >
@@ -20,7 +20,7 @@ export default function Social() {
         </a>
         <a
           className="mr-5 icon"
-          href="https://github.com/karthiknmenon"
+          href="https://github.com/arpan491"
           target="_blank"
           rel="noreferrer"
         >
@@ -28,15 +28,15 @@ export default function Social() {
         </a>
         <a
           className="mr-5 icon"
-          href="https://resume.io/r/iF6vyOstC"
+          href="https://drive.google.com/file/d/1AlOWOM80JOdaLx3gr15ePQzt4eI7zJ0U/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
-          <FaDownload />
+          <FaFileAlt />
         </a>
         <a
           className="mr-5 icon"
-          href="https://www.instagram.com/kaarthikm_/"
+          href="https://www.instagram.com/arpan491_/"
           target="_blank"
           rel="noreferrer"
         >

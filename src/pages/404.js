@@ -8,7 +8,7 @@ function ErrorPage() {
     <div className="container-fluid">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Karthik Menon | Software Engineer | BigBinary | Rajagiri</title>
+        <title>Arpan Gupta | Software Engineer | BigBinary | Rajagiri</title>
       </Helmet>
       <div className="row">
         <div className="text-muted my-5 h3 text-center w-100 h-100">

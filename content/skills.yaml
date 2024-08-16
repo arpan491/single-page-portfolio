@@ -1,17 +1,17 @@
 - title: Programming Languages
-  skills: [C/C++, Python, Unix-Shell]
+  skills: [C/C++, Python, JavaScript]
 
 - title: Development
-  skills: [react.js, gatsby.js, CSS/SCSS, JS/jQuery]
+  skills: [react.js, CSS/SCSS, JS/jQuery]
 
-- title: Development
-  skills: [node.js, Google Firebase, Gulp, Bootstrap and Frameworks]
+- title: Cloud Providers
+  skills: [Amazon web services, Google cloud platform]
 
 - title: Software & Tools
-  skills: [git, Hyperledger, LaTeX]
+  skills: [Docker, Gitpod, Kubernetes]
 
-- title: Wireframing & Design
-  skills: [Figma, Balsamiq Mockups, Adobe XD, Sketch]
+- title: LLMs
+  skills: [OpenAI, Claude, Gemini]
 
 - title: Operating Systems
   skills: [Mac OS, Ubuntu, Windows]

@@ -14,7 +14,7 @@ function Projects({ data }) {
       <Helmet>
         <meta charSet="utf-8" />
         <title>
-          Projects | Karthik Menon | Software Engineer | BigBinary | Rajagiri
+          Projects | Arpan Gupta | Software Engineer
         </title>
       </Helmet>
       <div className="row">

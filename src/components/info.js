@@ -1,7 +1,5 @@
 import React from "react";
-import ExtraCurricular from "./ExtraCurricular";
 import Social from "./Social";
-import Publications from "./Publications";
 import PositionsOfResponsibility from "./PositionsOfResponsibility";
 import WorkExperience from "./WorkExperience";
 import Skills from "./Skills";
@@ -13,7 +11,7 @@ export default function info() {
       <div className="my-5"></div>
       <div className="display-4" style={{ color: "#FF8A00" }}>
         <span style={{ color: "white" }}>Hello, I'm</span> <br />
-        Karthik Menon.{" "}
+        Arpan Gupta.{" "}
         <span className="wave" role="img" aria-label="karthik says hi">
           👋
         </span>
@@ -33,8 +31,6 @@ export default function info() {
       <Skills />
       <WorkExperience />
       <PositionsOfResponsibility />
-      <Publications />
-      <ExtraCurricular />
       <div className="h3 code mt-2 mb-3">{"</body>"}</div>
       <div className="h3 code mt-2 mb-3">{"</html>"}</div>
       <Social />

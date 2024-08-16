@@ -3,7 +3,7 @@
   "private": true,
   "description": "A one page design portfolio",
   "version": "0.1.0",
-  "author": "Karthik Menon <menonk484@gmail.com>",
+  "author": "Arpan Gupta <menonk484@gmail.com>",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gatsby": "^2.18.16",

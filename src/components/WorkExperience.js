@@ -9,8 +9,8 @@ export default function WorkExperience() {
           node {
             company
             position
-            description
             time
+            responsibilities
           }
         }
       }
@@ -30,8 +30,10 @@ export default function WorkExperience() {
           {node.company}
           <div className="text-muted mx-5 my-2 h4 text-justify info">
             {node.position}
-            <div className="mx-1 my-2 h5">{node.description}</div>
             <div className="mx-1 my-2 h6">{node.time}</div>
+            {node.responsibilities.map((responsibility) => (
+              <div className="mx-1 my-2 h6">{responsibility}</div>
+            ))}
           </div>
         </div>
       ))}

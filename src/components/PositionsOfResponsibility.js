@@ -21,7 +21,7 @@ export default function PositionsOfResponsibility() {
   return (
     <>
       <div className="h3 mx-3 code mt-2 mb-3">
-        {'<div id="Positions-of-Responsibility">'}
+        {'<div id="Leadership-Experience">'}
       </div>
       {responsibilityList.map(({ node }) => {
         return (
