@@ -8,7 +8,7 @@
 
 </center>
 
-[A one page design portfolio](https://www.karthikmenon.com/) developed using gatsby and deployed using netlify.
+[A one page design portfolio](https://www.arpangupta.vercel.app/) developed using gatsby and deployed using netlify.
 
 
 ### How things went forward with this repo - 
