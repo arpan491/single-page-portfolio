@@ -147,7 +147,7 @@ var plugins = [{
     "theme_color_in_head": true,
     "cache_busting_mode": "query",
     "include_favicon": true,
-    "cacheDigest": "2b15ba1bd94b9519e3488a849a19975c"
+    "cacheDigest": "1b5a14619c51ddf65f4eed803ac0864d"
   }
 }, {
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-offline/gatsby-ssr */ "./node_modules/gatsby-plugin-offline/gatsby-ssr.js"),

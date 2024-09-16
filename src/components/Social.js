@@ -28,7 +28,7 @@ export default function Social() {
         </a>
         <a
           className="mr-5 icon"
-          href="https://drive.google.com/file/d/1AlOWOM80JOdaLx3gr15ePQzt4eI7zJ0U/view?usp=sharing"
+          href="https://drive.google.com/file/d/1yxr35q-fQgAg2UObm1SR159IuExP6dTz/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
